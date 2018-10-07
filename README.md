@@ -1,8 +1,5 @@
 ## 文章列表
 
-
-**知识星球 软件安全与逆向分析 和你一起庆国庆，国庆限时8折 节后恢复原价 快快加入吧！**
-
 [jsc反编译工具编写探索之路](https://t.zsxq.com/bqv3nQf) 发布时间：2018-08-11
 
 [史上最强ELF解析模板](https://t.zsxq.com/UFyrrvb) 发布时间：2018-08-12
@@ -27,13 +24,10 @@
 
 [使用IDA自动化破解与补丁跨平台二进制程序](https://t.zsxq.com/a6YRjEa) 发布时间：2018-10-01
 
-[Java软件安全与逆向分析系列二：Class文件格式](Java软件安全与逆向分析系列二：Class文件格式／Java软件安全与逆向分析系列二：Class文件格式.md) 发布时间：2018-10-08
+[逆向分析Electron框架开发的应用程序](https://t.zsxq.com/7Q3jIQR) 发布时间：2018-10-07
 
 
-To Be Continued.
-
-**微信交流群图片如过期可以在微信公众号中获取二维码**
-![微信交流群](https://ws3.sinaimg.cn/large/006tNbRwly1fvyfr33zoaj30fi0eu0vl.jpg)
+**To Be Continued.**
 
 
 文章精美排版PDF与代码，知识星球会员可以在知识星球：【软件安全与逆向分析】（ID: 86753808）中下载。
