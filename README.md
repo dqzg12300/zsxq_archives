@@ -26,6 +26,7 @@
 
 [逆向分析Electron框架开发的应用程序](https://t.zsxq.com/7Q3jIQR) 发布时间：2018-10-07
 
+[Java软件安全与逆向分析系列二：Class文件格式](https://t.zsxq.com/Ii2RbaU) 发布时间：2018-10-13
 
 **To Be Continued.**
 
