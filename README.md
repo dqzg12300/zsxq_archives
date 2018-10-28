@@ -28,7 +28,11 @@
 
 [Java软件安全与逆向分析系列二：Class文件格式](https://t.zsxq.com/Ii2RbaU) 发布时间：2018-10-13
 
-[LLVM概论](https://t.zsxq.com/RzVZfIQ) 发布时间：2018-10-20
+[LLVM系列一：LLVM概论](https://t.zsxq.com/RzVZfIQ) 发布时间：2018-10-20
+
+[LLVM系列二：安装和编译](https://t.zsxq.com/Ay7MFMn) 发布时间：2018-10-28
+
+[Android模拟器镜像快照文件格式模板](https://t.zsxq.com/me6QJeq) 发布时间：2018-10-28
 
 
 **To Be Continued.**
