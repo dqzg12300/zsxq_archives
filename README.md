@@ -34,6 +34,8 @@
 
 [Android模拟器镜像快照文件格式模板](https://t.zsxq.com/me6QJeq) 发布时间：2018-10-28
 
+[Java软件安全与逆向分析系列三：JVM指令集与反汇编](https://t.zsxq.com/iqjurni) 发布时间：2018-11-03
+
 
 **To Be Continued.**
 
