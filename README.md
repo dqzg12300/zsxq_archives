@@ -42,6 +42,8 @@
 
 [LLVM系列五：LLVM周边项目介绍-libc++、TestSuits、DragonEgg](https://t.zsxq.com/2NjyFqB) 发布时间：2018-11-18
 
+[LLVM系列六：LLVM了解篇剧场版](https://t.zsxq.com/BeuFUjq) 发布时间：2018-11-24
+
 
 
 
