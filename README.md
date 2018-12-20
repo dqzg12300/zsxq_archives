@@ -44,6 +44,7 @@
 
 [LLVM系列六：LLVM了解篇剧场版](https://t.zsxq.com/BeuFUjq) 发布时间：2018-11-24
 
+[LLVM系列七：LLVM周边项目介绍-lld、OpenMP、Polly](https://t.zsxq.com/YBIyJ6Y) 发布时间：2018-12-20
 
 
 
