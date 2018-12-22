@@ -46,6 +46,8 @@
 
 [LLVM系列七：LLVM周边项目介绍-lld、OpenMP、Polly](https://t.zsxq.com/YBIyJ6Y) 发布时间：2018-12-20
 
+[RecalcTool跨平台逆向分析辅助工具完整源码](https://t.zsxq.com/MN7EA2n) 发布时间：2018-12-21
+
 
 
 **To Be Continued.**
