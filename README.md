@@ -48,6 +48,8 @@
 
 [RecalcTool跨平台逆向分析辅助工具完整源码](https://t.zsxq.com/MN7EA2n) 发布时间：2018-12-21
 
+[LLVM系列八：官⽅LLVM⼊⻔](https://t.zsxq.com/rv7qFyR) 发布时间：2018-12-30
+
 
 
 **To Be Continued.**
